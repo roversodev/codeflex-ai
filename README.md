@@ -1,7 +1,5 @@
 <h1 align="center">💪 Assistente Fitness com IA 🤖</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
-
 ## Destaques:
 
 - 🚀 Stack Tecnológica: Next.js, React, Tailwind & Shadcn UI
